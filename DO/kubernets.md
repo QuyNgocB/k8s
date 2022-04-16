@@ -2,7 +2,7 @@
 ## 2-Deploy application Web
 ### 2.1-Setting Up Hello World Deployments
 ```
-nano hello-kubernetes-second.yaml 
+nano hello-kubernetes-first.yaml 
 ```
 ```
 kubectl create -f hello-kubernetes-first.yaml

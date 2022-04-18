@@ -11,7 +11,7 @@ spec:
     - hw.your_domain
     secretName: hello-kubernetes-tls
   rules:
-  - host: "hw.your_domain_name"
+  - host: "app4.kienle.xyz"
     http:
       paths:
       - pathType: Prefix

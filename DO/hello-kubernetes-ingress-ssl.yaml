@@ -8,7 +8,7 @@ annotations:
 spec:
   tls:
   - hosts:
-    - hw.your_domain
+    - app4.kienle.xyz
     secretName: hello-kubernetes-tls
   rules:
   - host: "app4.kienle.xyz"
